@@ -15,8 +15,7 @@ none
 
 Dependencies
 ------------
-
-none
+- jermon.cpan
 
 Example Playbook
 ----------------

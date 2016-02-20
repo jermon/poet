@@ -1,0 +1,12 @@
+---
+- hosts: all
+  vars:
+      
+  roles:
+    - jermon.cpan
+    - poet
+
+  tasks:
+
+  handlers:
+
